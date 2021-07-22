@@ -1,0 +1,21 @@
+body {
+    
+    background-image: linear-gradient(120deg, #e2df25, #54df32);
+    text-align: center;
+}
+
+/* .result{
+    color: #ffff;
+    font-family: sans-serif;
+} */
+.navbar {
+    background-color: #333333;
+}
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
